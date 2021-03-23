@@ -13,6 +13,7 @@ Let's get started!
 ---
 
 > Based on the general concept from Rachel M. Carmena's blog post on [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html).
+> Further refined from the [git_training by UnseenWizzard][https://github.com/UnseenWizzard/git_training.git].
 > 
 > While I find many git tutorials on the internet to be too focused on what to do instead of how things work, the most invaluable resource for both (and source for this tutorial!) are the [git Book](https://git-scm.com/book/en/v2) and [Reference page](https://git-scm.com/docs). 
 > 
@@ -54,9 +55,9 @@ Just go to your home folder, or wherever you like to put your projects. You don'
 
 Now we want to grab a _Remote Repository_ and put what's in it onto your machine. 
 
-I'd suggest we use this one ([https://github.com/UnseenWizzard/git_training.git](https://github.com/UnseenWizzard/git_training.git) if you're not already reading this on github).
+I'd suggest we use this one ([https://github.com/DJ-BBot/git_training.git](https://github.com/DJ-BBot/git_training.git) if you're not already reading this on github).
 
-> To do that I can use `git clone https://github.com/UnseenWizzard/git_training.git`
+> To do that I can use `git clone https://github.com/DJ-BBot/git_training.git`
 > 
 > But as following this tutorial will need you to get the changes you make in your _Dev Environment_ back to the _Remote Repository_, and github doesn't just allow anyone to do that to anyone's repo, you'll best create a _fork_ of it right now. There's a button to do that on the top right of this page. 
 
